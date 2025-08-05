@@ -7,7 +7,7 @@ const config: HardhatUserConfig = {
     monad: {
       url: "https://testnet-rpc.monad.xyz",
       chainId: 10143,
-      accounts: ["Your-Private-Key"],
+      accounts: ["Your-Privatel-Key"],
     },
   },
 }
